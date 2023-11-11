@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about programming and software development. I have experience in a variety of programming languages, frontend and backend technologies, and machine learning. Here's a bit about me:
 
 - 💼 I'm a software developer with expertise in C++, Java, and Python.
-- 🌐 Frontend skills: HTML, CSS, and JavaScript. I enjoy creating responsive and interactive web applications.
+- 🌐 Frontend skills: HTML, CSS. I enjoy creating responsive and interactive web applications.
 - ⚙️ Backend experience with Spring Boot, ensuring robust server-side functionality.
 - 📊 Proficient with MySQL for database management and manipulation.
 - 🤖 Machine learning enthusiast, working with libraries like NumPy, Pandas, and scikit-learn.
